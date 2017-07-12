@@ -19,3 +19,11 @@ Hi. I think you are a good person and what you do is great. I'm not the only one
 ## To someone who has lost a friend / relativ
 
 ## To someone who is depressed
+
+## To someone having difficulties in he(s/r) job
+
+### promotion refused
+
+### fired
+
+### idea refused by hierarchy
