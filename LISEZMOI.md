@@ -1,8 +1,8 @@
 # NiceThingsToSay
-Un dÈpot de belles choses ‡ dire ‡ ceux qui en ont besoin ou qui le mÈritent.
+Un d√©pot de belles choses √† dire √† ceux qui en ont besoin ou qui le m√©ritent.
 
-Il semble malheureusement nÈcessaire de retablir l'Èquilibre entre les mÈchancetÈs et les gentillesses qui ont court sur l'Internet.
-Trouver les mots justes n'est pas toujours facile. Vous pourrez trouver ou laisser ici de gentilles choses ‡ dire.
+Il semble malheureusement n√©cessaire de retablir l'√©quilibre entre les m√©chancet√©s et les gentillesses qui ont court sur l'Internet.
+Trouver les mots justes n'est pas toujours facile. Vous pourrez trouver ou laisser ici de gentilles choses √† dire.
 
 ## To someone who has been harassed
 
@@ -19,3 +19,7 @@ Hi. I think you are a good person and what you do is great. I'm not the only one
 ## To someone who has lost a friend / relativ
 
 ## To someone who is depressed
+
+# ThingsToNotSay
+
+Ne pas dire √† une personne qui pleure qu'elle est plus jolie quand elle sourit *mais plut√¥t* ‚Ä¶
